@@ -132,9 +132,13 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color:#3285F3;
     border: none;
     font-weight: bold;
+}
+
+.formulario button:hover{
+    background-color: #ff0180;
 }
 
 .form-control {
@@ -197,4 +201,9 @@ h2 {
 }
 .alto-contraste .fundo-galeria {
     background: none;
+}
+
+.img-fluid{
+    width: 345px;
+    height: 194px;
 }
